@@ -5,11 +5,14 @@
 ## About me
 
 - ✨ Creating bugs since 2010
-- 📚 I'm currently learning: 
-- 🎯 Goals: 🚀
+- 🎯 Passionate about clean code, system design, and scalable architectures
+- 📚 Always learning: **Distributed Systems**, **CockroachDB**, **Cloud-native patterns**
+- 💬 I like mentoring, doing code reviews, and talking about tech
 
-## I code with
+## Usually coding with
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -40,12 +43,15 @@
 </div>
 
 ###
-
+## 📫 Contact
 <div align="left">
+  <a href="https://www.linkedin.com/in/pedro-marteletto/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  
+  <a href="mailto:pedro.marteletto@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
